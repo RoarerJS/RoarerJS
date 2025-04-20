@@ -1,0 +1,26 @@
+{
+  "name": "roarerjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+"
+  },
+  "keywords": [
+    "NodeJS",
+    "Backend Framework",
+    "Fullstack Development",
+    "ExpressJS",
+    "JS",
+    "JavaScript"
+  ],
+  "author": "JehanKandy",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
